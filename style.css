@@ -82,7 +82,7 @@ footer {
 /* CABEÇALHO NATALINO */
 header {
   background: linear-gradient(135deg, #c21807, #ffcc00);
-  color: #fff;
+  color: 	#C0C0C0;
   text-align: center;
   padding: 40px 20px;
   border-bottom: 5px solid #b30000;
@@ -93,15 +93,16 @@ header h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 60px;
   margin-bottom: 10px;
-  color: #fff8e7;
+  color: #ffd700;
   text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
 }
 
 header p {
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
-  color: #fff;
+  color: #008000;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
 }
+
 
 
